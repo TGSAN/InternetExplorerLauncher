@@ -1,2 +1,2 @@
-# InternetExplorerLauncher
-Internet Explorer Launcher (Launch the Internet Explorer on Windows 10/11)
+# Internet Explorer Launcher
+Launch the Internet Explorer on Windows 10/11
